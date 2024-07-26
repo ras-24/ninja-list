@@ -1,5 +1,5 @@
 # Ninja List
-This project is displaying basic routing and fetching data
+This project is displaying basic routing and fetching data using Next.js
 
 ## Getting Started
 This is an example of how you can set up this project locally. To get a local copy up and running, follow these steps.
